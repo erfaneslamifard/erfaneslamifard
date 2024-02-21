@@ -1,5 +1,6 @@
 <h1> 👋 Hi, I’m @erfaneslamifard </h1> <br/>
-🟨 This is a repo for my JS practice <br/>
+💻 Im a Front-end Developer <br/>
+🟨 Look after for JavaScript...
 
 
 <!---
